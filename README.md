@@ -18,7 +18,7 @@ Ebtehal youssef El-maghawrie </a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning machine learning && computer vision in Deep larning  and learning about Geology in Geomorphology in Geography <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning machine learning && computer vision in Deep larning  and learning about Geology in Geomorphology in Geography 
 
 
 - 📫 How to reach me **ebtehal.youssef5@gmail.com**
